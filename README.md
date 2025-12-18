@@ -262,22 +262,10 @@ After running the seed script:
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Events Listing |
-|-----------|----------------|
-| ![Home](screenshots/home.png) | ![Events](screenshots/events.png) |
-
-| NGO Dashboard | Volunteer Dashboard |
-|---------------|---------------------|
-| ![NGO](screenshots/ngo-dashboard.png) | ![Volunteer](screenshots/volunteer-dashboard.png) |
-
----
-
 ## 👥 Team Members
 
-- **[Your Name]** - [Roll Number]
-- **[Partner Name]** - [Roll Number]
+- **Naqeeb Ul Rehman** - **23014119-006** (Team Lead)
+- **Zunair Amjad** - **23014119-008** 
 
 ---
 
