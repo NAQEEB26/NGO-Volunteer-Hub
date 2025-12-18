@@ -4,6 +4,7 @@ import { AuthProvider } from './context/AuthContext';
 
 // Components
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import ProtectedRoute from './components/ProtectedRoute';
 
 // Pages
@@ -52,6 +53,7 @@ function App() {
                             }
                         />
                     </Routes>
+                    <Footer />
                 </div>
             </Router>
         </AuthProvider>

@@ -1,0 +1,48 @@
+AWD Projects
+To manage this effectively for a 10% weightage (which usually falls under the "Sessional/Assignment" head), the projects must be scoped correctly—not too small (like a calculator) and not too massive (like a full ERP).
+Here is a list of distinct MERN Stack Project topics (one for each group) to ensure variety and minimize copying, along with a grading rubric.
+Mandatory Technical Requirements for All Groups
+Every project must include:
+1.	Authentication: Login/Signup (JWT based) and Password Hashing.
+2.	Database: At least 2-3 Collections (tables) in MongoDB with relationships (e.g., Users and Orders).
+3.	CRUD: Full Create, Read, Update, Delete functionality for the main feature.
+4.	Frontend: React Functional Components with Hooks (useState, useEffect).
+5.	Routing: Protected routes (cannot access dashboard without login).
+Project Topics 
+27.	Study Group Matcher: Students find others studying the same subject for group study.
+28.	Research Collaboration: Teachers post research interests; Students apply to assist.
+Category D: Niche E-Commerce & Business (12 Projects)
+29.	Agro-Marketplace: Farmers list produce (Wheat, Rice); Wholesalers bid or buy.
+30.	Spare Parts Depot: Database for car/bike spare parts; Users search by model number.
+31.	Custom Cake Bakery: Users design a cake (flavor, size, text) and pre-order.
+32.	Online Art Gallery: Local artists list paintings; Buyers purchase or bid.
+33.	Furniture Restoration: Users upload photos of old furniture; Carpenters quote repair prices.
+34.	Construction Material Supply: Contractors order bricks, cement, sand; Suppliers manage delivery.
+35.	Event Equipment Rental: Rent chairs, sound systems, lights for weddings/parties.
+36.	Auction House: Users list items (antiques, phones) for a 24-hour bidding war.
+37.	Wholesale Distributor: Shopkeepers order bulk stock from a distributor (B2B).
+38.	Sports Turf Booking: Teams book slots for cricket/football grounds (hourly basis).
+39.	Co-working Space Manager: Freelancers book desks or meeting rooms for specific hours.
+40.	Printing Press Order System: Users upload designs for business cards/flyers; Press updates print status.
+Category E: Social & Community (10 Projects)
+41.	Pet Adoption Center: Profiles of stray animals needing homes; Adoption application forms.
+42.	NGO Volunteer Hub: NGOs post events (Beach clean, Food drive); Volunteers sign up.
+43.	Crisis Relief Coordinator: Maps for flood/earthquake relief; Users list needs (Blankets, Food).
+44.	Local Tourism Guide: Users pin hidden gems/food spots in their city; Others rate them.
+45.	Mosque Fund Tracker: Mosques post maintenance needs; Community pledges donations.
+46.	Marriage Bureau (Mock): Profiles with strict privacy; Parents connect for proposals.
+47.	Freelance Photographer Booking: Portfolio display and booking for events.
+
+Grading Rubric (Total: 10 Marks)
+Since this is a 3-credit theory course, the evaluation should focus on logic and code quality rather than just design.
+Criteria	Marks	Details
+Backend API (Node/Express)	3.0	Are APIs RESTful? Is the folder structure correct (Controllers/Routes)? Does it handle errors?
+Database (MongoDB)	2.0	Proper Schema design. Are relationships (e.g., user_id in posts) handled correctly?
+Frontend (React)	3.0	Component structure, State management, API integration (Axios/Fetch), and Responsiveness.
+Authentication & Security	1.0	Is the password hashed? Can a non-logged-in user access private pages?
+Viva/Q&A	1.0	Individual questioning to ensure both partners contributed.
+Total	10	
+Deliverables Required from Students
+1.	Source Code: GitHub Repository link.
+2.	Project Report (Short): 5-10 pages containing Problem Statement, Database Schema Diagram, and Screen-shots.
+3.	Live Demo: Running on their local laptop during the final Viva.

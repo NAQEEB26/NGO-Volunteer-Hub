@@ -135,7 +135,7 @@ const EventDetails = () => {
                 {error && <Alert type="error" message={error} onClose={() => setError('')} />}
                 {success && <Alert type="success" message={success} onClose={() => setSuccess('')} />}
 
-                <div style={{ display: 'grid', gridTemplateColumns: '1fr 400px', gap: '2rem' }}>
+                <div className="event-details-grid">
                     {/* Event Details */}
                     <div className="card">
                         <div className="card-body">
